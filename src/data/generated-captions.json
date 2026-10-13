@@ -1,0 +1,354 @@
+{
+  "pNInz6obpgDQGcFmaJgB": {
+    "hook": [
+      {
+        "text": "Wait,",
+        "startMs": 0,
+        "endMs": 290,
+        "timestampMs": 145,
+        "confidence": null
+      },
+      {
+        "text": "what",
+        "startMs": 325,
+        "endMs": 511,
+        "timestampMs": 418,
+        "confidence": null
+      },
+      {
+        "text": "actually",
+        "startMs": 569,
+        "endMs": 964,
+        "timestampMs": 766.5,
+        "confidence": null
+      },
+      {
+        "text": "happens",
+        "startMs": 1022,
+        "endMs": 1405,
+        "timestampMs": 1213.5,
+        "confidence": null
+      },
+      {
+        "text": "here?",
+        "startMs": 1463,
+        "endMs": 1997,
+        "timestampMs": 1730,
+        "confidence": null
+      }
+    ],
+    "code": [
+      {
+        "text": "Your",
+        "startMs": 0,
+        "endMs": 197,
+        "timestampMs": 98.5,
+        "confidence": null
+      },
+      {
+        "text": "code",
+        "startMs": 255,
+        "endMs": 511,
+        "timestampMs": 383,
+        "confidence": null
+      },
+      {
+        "text": "looks",
+        "startMs": 546,
+        "endMs": 743,
+        "timestampMs": 644.5,
+        "confidence": null
+      },
+      {
+        "text": "simple.",
+        "startMs": 766,
+        "endMs": 1103,
+        "timestampMs": 934.5,
+        "confidence": null
+      },
+      {
+        "text": "Your",
+        "startMs": 1126,
+        "endMs": 1242,
+        "timestampMs": 1184,
+        "confidence": null
+      },
+      {
+        "text": "computer",
+        "startMs": 1300,
+        "endMs": 1741,
+        "timestampMs": 1520.5,
+        "confidence": null
+      },
+      {
+        "text": "sees",
+        "startMs": 1800,
+        "endMs": 2009,
+        "timestampMs": 1904.5,
+        "confidence": null
+      },
+      {
+        "text": "none",
+        "startMs": 2078,
+        "endMs": 2252,
+        "timestampMs": 2165,
+        "confidence": null
+      },
+      {
+        "text": "of",
+        "startMs": 2287,
+        "endMs": 2334,
+        "timestampMs": 2310.5,
+        "confidence": null
+      },
+      {
+        "text": "that.",
+        "startMs": 2368,
+        "endMs": 2972,
+        "timestampMs": 2670,
+        "confidence": null
+      }
+    ],
+    "binary": [
+      {
+        "text": "Every",
+        "startMs": 0,
+        "endMs": 255,
+        "timestampMs": 127.5,
+        "confidence": null
+      },
+      {
+        "text": "number",
+        "startMs": 313,
+        "endMs": 522,
+        "timestampMs": 417.5,
+        "confidence": null
+      },
+      {
+        "text": "becomes",
+        "startMs": 580,
+        "endMs": 940,
+        "timestampMs": 760,
+        "confidence": null
+      },
+      {
+        "text": "ones",
+        "startMs": 1022,
+        "endMs": 1335,
+        "timestampMs": 1178.5,
+        "confidence": null
+      },
+      {
+        "text": "and",
+        "startMs": 1370,
+        "endMs": 1463,
+        "timestampMs": 1416.5,
+        "confidence": null
+      },
+      {
+        "text": "zeros.",
+        "startMs": 1533,
+        "endMs": 2461,
+        "timestampMs": 1997,
+        "confidence": null
+      }
+    ],
+    "transistors": [
+      {
+        "text": "Billions",
+        "startMs": 0,
+        "endMs": 580,
+        "timestampMs": 290,
+        "confidence": null
+      },
+      {
+        "text": "of",
+        "startMs": 627,
+        "endMs": 697,
+        "timestampMs": 662,
+        "confidence": null
+      },
+      {
+        "text": "tiny",
+        "startMs": 766,
+        "endMs": 1080,
+        "timestampMs": 923,
+        "confidence": null
+      },
+      {
+        "text": "switches,",
+        "startMs": 1149,
+        "endMs": 1707,
+        "timestampMs": 1428,
+        "confidence": null
+      },
+      {
+        "text": "flipping",
+        "startMs": 1881,
+        "endMs": 2299,
+        "timestampMs": 2090,
+        "confidence": null
+      },
+      {
+        "text": "in",
+        "startMs": 2368,
+        "endMs": 2450,
+        "timestampMs": 2409,
+        "confidence": null
+      },
+      {
+        "text": "nanoseconds.",
+        "startMs": 2543,
+        "endMs": 3762,
+        "timestampMs": 3152.5,
+        "confidence": null
+      }
+    ],
+    "calculation": [
+      {
+        "text": "Logic",
+        "startMs": 0,
+        "endMs": 418,
+        "timestampMs": 209,
+        "confidence": null
+      },
+      {
+        "text": "gates",
+        "startMs": 464,
+        "endMs": 755,
+        "timestampMs": 609.5,
+        "confidence": null
+      },
+      {
+        "text": "do",
+        "startMs": 813,
+        "endMs": 929,
+        "timestampMs": 871,
+        "confidence": null
+      },
+      {
+        "text": "the",
+        "startMs": 975,
+        "endMs": 1045,
+        "timestampMs": 1010,
+        "confidence": null
+      },
+      {
+        "text": "math.",
+        "startMs": 1091,
+        "endMs": 1765,
+        "timestampMs": 1428,
+        "confidence": null
+      }
+    ],
+    "reveal": [
+      {
+        "text": "That's",
+        "startMs": 0,
+        "endMs": 313,
+        "timestampMs": 156.5,
+        "confidence": null
+      },
+      {
+        "text": "it.",
+        "startMs": 383,
+        "endMs": 673,
+        "timestampMs": 528,
+        "confidence": null
+      },
+      {
+        "text": "That's",
+        "startMs": 917,
+        "endMs": 1184,
+        "timestampMs": 1050.5,
+        "confidence": null
+      },
+      {
+        "text": "electricity",
+        "startMs": 1231,
+        "endMs": 1869,
+        "timestampMs": 1550,
+        "confidence": null
+      },
+      {
+        "text": "becoming",
+        "startMs": 1939,
+        "endMs": 2322,
+        "timestampMs": 2130.5,
+        "confidence": null
+      },
+      {
+        "text": "an",
+        "startMs": 2368,
+        "endMs": 2426,
+        "timestampMs": 2397,
+        "confidence": null
+      },
+      {
+        "text": "answer.",
+        "startMs": 2485,
+        "endMs": 3111,
+        "timestampMs": 2798,
+        "confidence": null
+      }
+    ],
+    "cta": [
+      {
+        "text": "Follow",
+        "startMs": 0,
+        "endMs": 325,
+        "timestampMs": 162.5,
+        "confidence": null
+      },
+      {
+        "text": "for",
+        "startMs": 372,
+        "endMs": 476,
+        "timestampMs": 424,
+        "confidence": null
+      },
+      {
+        "text": "more",
+        "startMs": 534,
+        "endMs": 789,
+        "timestampMs": 661.5,
+        "confidence": null
+      },
+      {
+        "text": "of",
+        "startMs": 824,
+        "endMs": 882,
+        "timestampMs": 853,
+        "confidence": null
+      },
+      {
+        "text": "how",
+        "startMs": 940,
+        "endMs": 1068,
+        "timestampMs": 1004,
+        "confidence": null
+      },
+      {
+        "text": "things",
+        "startMs": 1138,
+        "endMs": 1405,
+        "timestampMs": 1271.5,
+        "confidence": null
+      },
+      {
+        "text": "really",
+        "startMs": 1451,
+        "endMs": 1683,
+        "timestampMs": 1567,
+        "confidence": null
+      },
+      {
+        "text": "work.",
+        "startMs": 1741,
+        "endMs": 2368,
+        "timestampMs": 2054.5,
+        "confidence": null
+      }
+    ]
+  }
+}
